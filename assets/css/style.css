@@ -1,0 +1,30 @@
+body, html {
+    height: 100vh;
+    margin: 0;
+    font-family: 'Cinzel', serif;
+}
+
+body {
+
+    background-image: url("../images/background.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+.header {
+
+    font-size: 10vh;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+
+.panel-back {
+
+    background: rgba(255, 255, 255, 0.767);
+    color: black;
+}
+
